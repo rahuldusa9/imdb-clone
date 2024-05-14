@@ -21,6 +21,7 @@ export default function Header() {
     <span className='text-xl hidden sm:inline '>clone</span>
    </Link>
    </div>
+   
     </div>
   )
 }
