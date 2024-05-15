@@ -6,7 +6,7 @@ export default function NavBar() {
     <div className='flex gap-4 p-2 justify-center dark:bg-amber-400 bg-amber-100'>
       <NavBarItems title="Trending" param="fetchTrending"/>
 
-      <NavBarItems title="Top Rated" param="fetchTopRated"/>    
+      <NavBarItems title="TopRated" param="fetchTopRated"/>    
     </div>
   )
 }
